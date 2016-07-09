@@ -96,27 +96,27 @@ header {
 }
 
 .countries .India a {
-    background: url(../img/i_flag.png);
+    background: url(../img/i_flag.png) top center no-repeat;
 }
 
 .countries .Nepal a {
-    background: url(../img/n_flag.png);
+    background: url(../img/n_flag.png) top center no-repeat;
 }
 
 .countries .Tibet a {
-    background: url(../img/t_flag.png);
+    background: url(../img/t_flag.png) top center no-repeat;
 }
 
 .countries .Butan a {
-    background: url(../img/b_flag.png);
+    background: url(../img/b_flag.png) top center no-repeat;
 }
 
 .countries .Shrilanka a {
-    background: url(../img/s_flag.png);
+    background: url(../img/s_flag.png) top center no-repeat;
 }
 
 .countries .Maldivi a {
-    background: url(../img/m_flag.png);
+    background: url(../img/m_flag.png) top center no-repeat;
 }
 
 .photo {

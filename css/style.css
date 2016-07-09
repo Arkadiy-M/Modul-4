@@ -16,7 +16,7 @@ body {
     top: 0px;
     bottom: 0px;
     left: 150px;
-    width: 78%;
+    width: 77%;
     margin-bottom: 30px;
     background-color: white;
     color: black;
@@ -29,14 +29,13 @@ header {
     top: 0;
     left: 0;
     right: 0;
-    height: 410px;
-}
+    }
 
 .logo  {
     float: left;
     top: 30px;
-    margin-left: 30px;
-    margin-top: 12px;
+    margin-left: 40px;
+    margin-top: 5px;
 }
 
 .top_block {
@@ -79,24 +78,24 @@ header {
 
 .countries li {
     float: left;
-    padding-left: 5px;
+    padding-left: 4px;
 }
 
 .countries li a {
     display: block;
     text-align: center;
     padding-top: 45px;
-    background-position: center top;
-    background-repeat: no-repeat;
     width: 55px;
     color: #128aa7;
     font-family: Tahoma;
     font-size: 10px;
     cursor: pointer;
+    background-position: center top;
 }
 
-.countries .India a {
+.countries .india a {
     background: url(../img/i_flag.png) top center no-repeat;
+      
 }
 
 .countries .Nepal a {
@@ -121,10 +120,10 @@ header {
 
 .photo {
     size: auto;
-    height: 240px;
+    height: 245px;
     width: 100%;
     border: solid 1px #138aa7;
-    border-top: 0;
+    border-top: 10;
     border-right: 0;
     border-left: 0;
 }
@@ -135,11 +134,11 @@ header {
 }
  
 menu {
-    margin-top: 2px;
+    margin-top: 0px;
     box-shadow: 0px 4px 5px 1px rgba(0, 0, 0, 0.78);
     z-index: 10;
     position: relative;
-    height: 27px;
+    height: 30px;
 }
  
 ul.menu {
@@ -150,10 +149,10 @@ ul.menu {
     border-top: 0;
     border-right: 0;
     border-left: 0;
-    width: 102%;
+    width: 100%;
 }
 
-l.menu:after {
+ul.menu:after {
     clear: both;
     content: ' ';
     float: none;
@@ -163,17 +162,17 @@ l.menu:after {
 ul.menu li {
     float: left;
     position: relative;
-    width: 14%;
+    width: 14.28%;
 }
  
 ul.menu li a {
     display: block;
-    padding: 5px;
+    padding: 7px;
     text-align: center;
     text-decoration: none;
     background-color: #343434;
     color: white;
-    font-size: 14px;
+    font-size: 13px;
     font-family: Tahoma;
 }
  
@@ -252,6 +251,3 @@ footer {
     clear: both;
     display: block;
 }
-Status API Training Shop Blog About
-© 2016 GitHub, Inc. Terms Privacy Security Contact H
-
